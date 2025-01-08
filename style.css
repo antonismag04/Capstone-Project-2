@@ -1,0 +1,51 @@
+body {
+    background-color: #748D92 ;
+    font-family: 'Times New Roman', serif;
+    color: #D3D9D4;
+}
+
+.profile-img {
+    height: 15rem;
+    border-radius: 50%;
+}
+
+#intro, .background {
+    background-color: #124E66 ;
+}
+
+h1 {
+    font-family: monospace;
+    color: #212A31 ;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.curved-img {
+    border-radius: 50%;
+}
+
+.previous {
+    background-color: #2E3944;
+}
+
+.wraper {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 1fr 1fr;
+}
+
+section {
+    padding: 2rem 1rem;
+}
+
+h3 {
+    color: #212A31 ;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.name {
+    font-size: medium;
+    font-family: monospace;
+}
